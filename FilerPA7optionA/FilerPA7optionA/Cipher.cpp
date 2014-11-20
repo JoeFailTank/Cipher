@@ -135,7 +135,7 @@ Substitute::Substitute ()
 
 Substitute::~Substitute ()
 {
-
+	// This is a test of github updating
 }
 
 void Substitute::Encode (ifstream &in, ofstream &out)
