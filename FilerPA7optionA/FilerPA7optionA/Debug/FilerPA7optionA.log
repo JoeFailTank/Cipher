@@ -1,0 +1,4 @@
+﻿  Cipher.cpp
+c:\users\joe\documents\visual studio 2012\projects\filerpa7optiona\filerpa7optiona\cipher.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+c:\users\joe\documents\visual studio 2012\projects\filerpa7optiona\filerpa7optiona\cipher.cpp(91): warning C4018: '<' : signed/unsigned mismatch
+  FilerPA7optionA.vcxproj -> c:\users\joe\documents\visual studio 2012\Projects\FilerPA7optionA\Debug\FilerPA7optionA.exe

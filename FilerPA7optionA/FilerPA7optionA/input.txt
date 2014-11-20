@@ -1,0 +1,10 @@
+You will design objects for each of the two encryption techniques required.
+Each object should hold a message that is either “clear text” or “encrypted”.
+You should be able to create any object around a string of text and an indicator of its status.
+You should have methods to retrieve the clear text or encrypted message from the object no matter how it is stored.
+Ok, so there are some other issues.
+If you have an encoded message, and do not know the key in the Caesar Cipher or the substitution cipher, then you need methods to interact with the message to try and determine the key.
+For the Caesar Cipher this is simply being able to test each key number from 1 through 25.
+You probably do not even have to do anything special except in the calling program.
+For the substitution cipher, you will have to have a method that does frequency analysis, and gives you a best guess.
+You may want to be able to put in substitutions as well to correct any problems that you find in the analysis.
